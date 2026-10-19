@@ -11,7 +11,7 @@ Transcriptome analysis and ribosome profiling: RNAseq, Monosome & Disome Profili
 Proteomics: Quantitative mass spectrometry of isolated collided-ribosome fractions
 Model System: Mouse Embryonic Stem Cells (mESCs)
 
-### Scripts:
+### <ins> Scripts:</ins>
 
 ### RNA-seq
 [pipeline](https://github.com/gatfieldlab/Snakemake_pipeline): 
