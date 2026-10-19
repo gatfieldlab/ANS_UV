@@ -13,7 +13,7 @@ Model System: Mouse Embryonic Stem Cells (mESCs)
 
 ### <ins> Scripts:</ins>
 
-### RNA-seq
+### RNA-seq ###
 [pipeline](https://github.com/gatfieldlab/Snakemake_pipeline): 
 - Reads trimming and mapping to mouse genome
 01_RNASeqCounts.R: Read count in CDS and cDNA
