@@ -3,10 +3,10 @@
 
 Sébastien Chamois, Julien Soudet, Virginie Ricci, Félix Naef, Cédric Gobet, David Gatfield
 
-### Summary:
+### <ins> Summary:</ins>
 This project investigates how distinct ribosome-impairing stimuli (Anisomycin and UV irradiation) shape the distribution and molecular composition of ribosome collisions across mRNAs in Mouse Embryonic Stem Cells (mESCs).
 
-### Experimental methods & data:
+### <ins> Experimental methods & data:</ins>
 Transcriptome analysis and ribosome profiling: RNAseq, Monosome & Disome Profiling (Ribo-seq / Disome-seq)
 Proteomics: Quantitative mass spectrometry of isolated collided-ribosome fractions
 Model System: Mouse Embryonic Stem Cells (mESCs)
