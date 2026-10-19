@@ -32,16 +32,19 @@ Model System: Mouse Embryonic Stem Cells (mESCs)
 - Get the most expressed transcript per gene
 - filter BAM
 
-01_Ribo_Asite_Monosome.R:
+02_Ribo_Asite_Monosome.R:
 - Get A-site position in Monosome (offset estimated using RiboWaltz)
 
 02_Ribo_Asite_Disome.R:
 - Get A-site position in Disome data (offset: +45)
 
+03_Ribo_PrepareReferenceFiles.sh:
+- Get amino acid coordinates
+
 04_Ribo_CountsInAA.R:
 - For each transcript, get counts per amino acid
 
-04_Ribo_FisherTest.R:
+05_Ribo_FisherTest.R:
 - For each transcript, perform FisherTest for each amino acid position
 
 
